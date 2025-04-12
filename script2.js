@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         } else {
             nav.classList.remove('scrolled');
         }
-    });
+    }); 
 
     // Hover effect on menu items
     const navLinks = document.querySelectorAll('#main-nav a');
